@@ -1,3 +1,4 @@
+"use strict";
 var message = "hello";
 console.log(message);
 //型推論(type Inference)
